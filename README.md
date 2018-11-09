@@ -1,3 +1,3 @@
 # HIV-Hack-Projects
 
-Another place to store datasets besides Drive.   Storing your data here will be good practice
+Collective Notebooks and Data Sets for all of our projects
